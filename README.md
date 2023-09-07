@@ -1,1 +1,2 @@
-# Blogs_website(https://suryansh-blogs.netlify.app/?page=2)
+# Blogs_website
+[Try it here](https://suryansh-blogs.netlify.app/?page=2)
